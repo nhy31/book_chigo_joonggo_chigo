@@ -6,7 +6,7 @@ import org.springframework.dao.DataAccessException;
 
 import com.bookchigo.domain.GpApply;
 import com.bookchigo.domain.GroupPurchase;
-
+// test2
 public interface GroupPurchaseDao {
 	
 	// 由ъ뒪�듃 遺덈윭�삤�뒗嫄�
